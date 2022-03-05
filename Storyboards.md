@@ -1,8 +1,7 @@
 layout: page
 title: "Storyboards"
-permalink: /storyboards/
+permalink: /storyboards
 
-<html>
 
 
 <div>
@@ -12,4 +11,3 @@ permalink: /storyboards/
 
 </div>
 
-  </html>
