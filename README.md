@@ -1,13 +1,11 @@
-<img align = "center" src="https://cdnb.artstation.com/p/assets/images/images/039/903/475/large/harvey-norman-img-0138.jpg?1627298313" alt="storyboard">
-
-
-  
-<h1 align="center"> 
+<div align = "center">
+<img src="https://cdnb.artstation.com/p/assets/images/images/039/903/475/large/harvey-norman-img-0138.jpg?1627298313" alt="storyboard"> 
+<h1> 
   
   ENTER
 
 </h1>
-  
+ </div>
 
 ## Welcome to GitHub Pages
 
