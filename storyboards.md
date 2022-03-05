@@ -5,7 +5,7 @@ permalink: /storyboards/
 ---
 
 
-<div color: "black">
+<div style="background-color: #000000">
   
 </div>
 
