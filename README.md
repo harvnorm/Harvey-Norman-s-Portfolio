@@ -1,8 +1,6 @@
 ---
-
 title: home
-permalink: README.md
-
+permalink: /home/
 --- 
 
 
