@@ -1,10 +1,9 @@
 
 ![Image](https://cdnb.artstation.com/p/assets/images/images/039/903/475/large/harvey-norman-img-0138.jpg?1627298313)
 
-<p align="center">
-<h1> ENTER </h1>
   
- </p>
+<h1 align="center"> ENTER </h1>
+  
 
 ## Welcome to GitHub Pages
 
