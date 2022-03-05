@@ -1,8 +1,7 @@
----
+
 layout: page
-title: "Storyboards"
+title: Storyboards
 permalink: /storyboards/
----
 
 
 <div>
