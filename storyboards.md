@@ -1,6 +1,6 @@
 ---
-title: storyboards
 layout: page
+title: "storyboards"
 permalink: /storyboards/
 ---
 
