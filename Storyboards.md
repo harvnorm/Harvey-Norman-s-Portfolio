@@ -1,7 +1,8 @@
 
-layout: page
-title: Storyboards.md
-permalink: /storyboards/
+title: storyboards
+layout: template
+filename: Storyboards.md
+
 
 
 <div>
