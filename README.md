@@ -1,7 +1,4 @@
----
-title: home
-permalink: /home/
---- 
+
 
 
 <p align = "center">
