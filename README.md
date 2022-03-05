@@ -1,7 +1,6 @@
 ---
 title: home
-layout: template
-filename: README.md
+permalink: readme.md
 --- 
 
 
