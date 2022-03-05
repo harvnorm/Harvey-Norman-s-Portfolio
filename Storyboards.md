@@ -1,3 +1,5 @@
+---
 layout: page
-title: "Storyboards.md"
+title: "Storyboards"
 permalink: /storyboards/
+---
