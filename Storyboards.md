@@ -1,6 +1,6 @@
 
 layout: page
-title: Storyboards
+title: Storyboards.md
 permalink: /storyboards/
 
 
