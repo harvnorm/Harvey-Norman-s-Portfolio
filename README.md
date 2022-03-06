@@ -5,7 +5,7 @@
   background-color: transparent;
   text-decoration: none;
 }
-  a: hover {
+  a:hover {
    color: grey;
    background-color: transparent;
    text-decoration: none;
