@@ -7,6 +7,8 @@
 }
   a: hover {
    color: grey;
+   background-color: transparent;
+   text-decoration: none;
   }
   
   </style>
