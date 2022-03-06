@@ -8,7 +8,7 @@ permalink: /storyboards/
   .topnav {
   background-color: #333;
   overflow: hidden;
-  height: 700px;
+  height: 200px;
   padding: 50px 0px;
 }
   
