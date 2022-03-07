@@ -17,7 +17,7 @@ permalink: /storyboards/
   padding: 14px 16px;
   text-decoration: none;
   font-size: 32px;
-  font-family: Arial;
+  font-family: Helvetica, sans-serif;
 }
 
 
