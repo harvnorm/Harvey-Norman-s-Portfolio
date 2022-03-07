@@ -17,7 +17,7 @@
 
 
 <p align = "center">
-<img style="width=1000px; height=1000px;" src="https://cdnb.artstation.com/p/assets/images/images/039/903/475/large/harvey-norman-img-0138.jpg?1627298313" alt="storyboard"> 
+<img style="width=100%;" src="https://cdnb.artstation.com/p/assets/images/images/039/903/475/large/harvey-norman-img-0138.jpg?1627298313" alt="storyboard"> 
   
 <a href="storyboards">
 <h1> 
