@@ -41,3 +41,8 @@ permalink: /storyboards/
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
 </div>
+
+
+<div class="stalker">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/039/903/475/large/harvey-norman-img-0138.jpg?1627298313">
+ </div>
