@@ -9,7 +9,6 @@ permalink: /storyboards/
   background-color: #333;
   overflow: hidden;
   height: 17px;
-  padding: 50px 0px;
 }
   
   .topnav a {
