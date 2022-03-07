@@ -1,7 +1,4 @@
----
-title: home
-permalink: /home/
----
+
 
 <style>
   
